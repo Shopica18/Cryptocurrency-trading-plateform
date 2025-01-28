@@ -1,5 +1,7 @@
 # fun.pump
 
+# Practice Project refered from https://youtu.be/z7Vz8ZKylc4?si=qtz-ecC1COjPesTa , https://github.com/dappuniversity/fun-pump.git
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
